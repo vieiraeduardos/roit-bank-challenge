@@ -1,6 +1,6 @@
-# roit-bank-case
+# ROIT Bank Challenge
 
-## Descrição do Case
+## Descrição do Desafio
 Esse teste tem como intuito avaliar conhecimentos básicos, sendo que o principal objetivo é analisar o raciocínio lógico e a capacidade de solucionar problemas, mesmo 
 que ainda desconhecidos pelo candidato.
 
@@ -24,7 +24,7 @@ Gitflow e Commit Semântico.
 ## Dataset
 https://drive.google.com/file/d/1AnqFjRBOns6g3CaWi8nmDzEBdQLYyQ4N/view?usp=sharing
 
-## Arquitetura
+## Estrutura Principal 
 ```
 /models
     ConnectionFactory.py
