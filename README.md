@@ -1,5 +1,7 @@
 # ROIT Bank Challenge
 
+Este é um desafio da ROIT Bank para construção de uma API REST para processamento e remoção de ruídos de imagens usando OpenCV, Optical Character Recognition (OCR) e MongoDB.
+
 ## Descrição do Desafio
 Esse teste tem como intuito avaliar conhecimentos básicos, sendo que o principal objetivo é analisar o raciocínio lógico e a capacidade de solucionar problemas, mesmo 
 que ainda desconhecidos pelo candidato.
